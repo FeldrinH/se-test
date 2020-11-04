@@ -1,5 +1,5 @@
 # Pealkiri
 
-Rida 1
-Rida 2
-Rida 3
+Rida 1 muudsae
+Rida 2 tekib
+Rida 3 conflict
